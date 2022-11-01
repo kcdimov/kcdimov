@@ -1,7 +1,7 @@
 - 👋 My name is Kostadin Dimov @kcdimov
 - 👀 I’m interested in coding, 
 - 🌱 I’m currently learning JAVA
-- 💞️ I gradueted as Java Full-Stack Developer 
+- 💞️ I graduated as Java Full-Stack Developer 
 - 📫 How to reach me: email: kostadin_s_dimov@yahoo.com
 
 <!---
